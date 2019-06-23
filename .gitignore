@@ -1,0 +1,12 @@
+dist
+env\.js
+yarn-error.log
+public
+node_modules
+.idea
+.vscode
+coverage
+reports
+.DS_Store
+yarn-error.log
+.fuse-box
